@@ -44,11 +44,12 @@ h1 {
 
 h2 {
   font-family: Arial, Helvetica, Times New Roman;
+  margin-top: 5px;
   text-align: center;
 }
 
 p {
-  font-size: x-large;
+  font-size: 1.1em;
   text-align: center;
   margin: 20px;
 }
@@ -70,4 +71,9 @@ p {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 2em;
   text-align: center;
+}
+
+.mild {
+  font-size: 150%;
+  text-shadow: 3px 3px #000;
 }
